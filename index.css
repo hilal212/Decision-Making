@@ -1,0 +1,12 @@
+#message {
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+    padding: 8px;
+    font-size: 16pt;
+}
+#signature {
+
+    font-size: italic
+}
+
